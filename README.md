@@ -41,21 +41,24 @@ The dataset contains details about movies and TV shows available on Netflix, inc
 * Visualized key trends using Matplotlib and Seaborn
 
 
-📊 Visual Insights
-1️⃣ Content Added Over the Years
-📈 Observation: Netflix has rapidly expanded its library since 2015, showing a steep rise in new titles.
+📊 Results & Insights:
+🕒 Content Growth Over Time
+* Netflix has shown remarkable content growth, especially between 2015 and 2020.
+* This period represents Netflix’s major global expansion phase, where the number of titles added increased steadily every year.
 
-2️⃣ Month-wise Content Addition
-📊 Observation: July had the highest content additions, while February had the least — suggesting more releases mid-year.
+🎬 Type of Content
+* The majority of titles on Netflix are Movies, while TV Shows have also increased in recent years.
+* This shows Netflix’s balanced strategy — keeping its strong movie base while expanding into binge-worthy TV series.
 
-3️⃣ Type of Content (Movies vs TV Shows)
-🎥 Observation: Movies dominate Netflix’s catalog, but TV shows have been growing steadily.
+🌍 Country Distribution
+* The United States dominates in terms of content production, but a notable rise in international titles highlights Netflix’s effort to globalize its catalog.
 
-4️⃣ Top Genres
-🎭 Observation: “Dramas,” “International Movies,” and “Comedies” are among the most frequent genres.
+🎭 Genre Insights
+* Drama, Comedy, and Documentaries are among the most common genres.
+* The data reveals Netflix’s focus on story-driven and reality-based content that appeals to a wide audience.
 
-5️⃣ Top Countries Producing Content
-🌍 Observation: The United States, India, and the United Kingdom lead in content production on Netflix.
+📅 Monthly Trends
+* Most titles are added between July and December, indicating stronger content releases in the second half of the year, possibly aligned with holidays and festive seasons
 
 
 🛠️ Tools & Libraries Used
